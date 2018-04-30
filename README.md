@@ -10,7 +10,7 @@ Check it out at [glitch](https://timestampmmicroservice.glitch.me/)
   
 ![timestamp microservice result][image2]  
   
-[image2]: https://github.com/LAKSHITgoel/time-stamp-microservice/blob/master/Timestampmicroserviceresult.png "Timestamp result"  
+[image2]: https://github.com/LAKSHITgoel/time-stamp-microservice/blob/master/Timestamp-microservice-result.png "Timestamp result"  
   
 ### User Stories  
   
